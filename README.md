@@ -128,7 +128,9 @@ ERROR: syntax error at or near "amount"
 ## Dashboard ##
 
 ![Dashboard overview](dashboard_overview.png)
+
 ![Month-over-month trend](month_over_month_trend.png)
+
 ![Fundraising December spike](fundraising_dec_spike_part1.png)
 
 ## Skills Demonstrated ##
