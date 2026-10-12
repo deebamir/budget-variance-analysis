@@ -1,7 +1,6 @@
 ## Budget vs. Actual Variance Analysis ##
 A SQL + Power BI project analyzing departmental budget performance across a full fiscal
-year, built to demonstrate financial reconciliation and variance analysis skills for data analyst
-roles requiring UK visa sponsorship.
+year, built to demonstrate financial reconciliation and variance analysis skills.
 
 ## Business Question ##
 Leadership wants to know: **which departments are overspending, by how much, and is
